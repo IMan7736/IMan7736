@@ -114,7 +114,6 @@
 
 ```txt
 Wrapping up my final year of a CS degree
-Learning Go for a Sr. Core Engineer take-home exam
 Building a custom Electron browser
 ```
 
