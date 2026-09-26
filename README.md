@@ -19,9 +19,6 @@
 - Final-year **BSc (Hons) Computer Science** student at **Villa College**, in partnership with the **University of the West of England**
 - Building a freelance web development business on **Fiverr**
 - Long-term goal: **location-independent work** + international travel
-- Currently interviewing for a **Sr. Core Engineer** role, learning **Go** for a take-home payroll engine exam
-- Considering a **Masters abroad**, with Malaysia as the top pick
-- Fun fact: I built a multi-agent Claude Code hierarchy (Director → Lead → Architect → Builder → Tester → Reviewer) just to run my own projects for me
 
 ---
 
@@ -45,8 +42,8 @@
   </tr>
   <tr>
     <td width="50%">
-      <h4>LotusAI (RAG Chatbot)</h4>
-      <p>A white-label, multilingual RAG chatbot — Next.js + TypeScript + Tailwind + PostgreSQL/pgvector on Supabase, powered by Gemini Flash. Originally built for a government tender bid, now repositioned as a sellable product.</p>
+      <h4>LotusAI (Chatbot)</h4>
+      <p>A white-label, multilingual chatbot — Next.js + TypeScript + Tailwind + PostgreSQL/pgvector on Supabase, powered by Gemini Flash. Originally built for a government tender bid, now repositioned as a sellable product.</p>
       <img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white"/>
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
     </td>
@@ -80,8 +77,6 @@
 - **Freestyle DnD Web App** — a client project: a live, DM-authoritative virtual tabletop with custom characters, maps, and story, built as an installable PWA with real-time updates, reconnect support, and free-form token placement.
 - **Fiverr Portfolio Suite** — four polished demo projects (Luminary Studio, Canvas, Élise Marchand, Forma Shop), all built with Next.js 16, TypeScript, and Tailwind CSS v4.
 - **Agentic Hierarchy** — a reusable multi-agent Claude Code system (Director → Lead → Architect → Builder → Tester → Reviewer) that can be pointed at any of my repos and run headlessly, with Google Antigravity as a scheduler/dashboard on top.
-- **Crypto Trading Bot** — a Python + Binance spot SMA-crossover strategy bot, taken through backtesting and analysis.
-- **Custom Android Phone Concept** — a planned dual OLED/e-ink display build on MediaTek Genio hardware.
 
 </details>
 
@@ -110,7 +105,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IMan7736&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IMan7736&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMan7736&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -125,9 +120,7 @@
 ```txt
 Wrapping up my final year of a CS degree
 Learning Go for a Sr. Core Engineer take-home exam
-Building Apogee Moon, a custom Electron browser
-Growing a Fiverr freelance business
-Planning a Masters abroad + a location-independent career
+Building a custom Electron browser
 ```
 
 ---
